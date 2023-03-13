@@ -1135,3 +1135,1124 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.03.13-14.44.02:708][405]AssetCheck: New page: Asset Save: multiple assets
 [2023.03.13-14.44.02:708][405]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/dummy.dummy
 [2023.03.13-14.44.02:708][405]LogContentValidation: Display: Validating World /Game/Maps/TutorialLevel.TutorialLevel
+[2023.03.13-14.48.10:369][134]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\mg05257163\Downloads\Gangnam Style.fbx)
+[2023.03.13-14.48.10:383][134]LogFbx: Loading FBX Scene from C:\Users\mg05257163\Downloads\Gangnam Style.fbx
+[2023.03.13-14.48.10:430][134]LogFbx: FBX Scene Loaded Succesfully
+[2023.03.13-14.48.18:731][134]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.03.13-14.48.18:745][134]LogFbx: Valid bind pose for Pose (BindPose) - bloke_reto
+[2023.03.13-14.48.18:749][134]LogMaterial: Display: Material /Game/Widgets/images/lambert1.lambert1 needed to have new flag set bUsedWithSkeletalMesh !
+[2023.03.13-14.48.18:751][134]LogMaterial: Display: Missing cached shadermap for lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: C3B106453BDFC4C0C0AB24A4ED7A41C94D3A69BC), compiling. 
+[2023.03.13-14.48.18:798][134]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2023.03.13-14.48.18:800][134]LogMaterial: Display: Missing cached shadermap for lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: 0A3A47D1C250BD466D60C3E254F7AD3E156D3CD3), compiling. 
+[2023.03.13-14.48.18:806][134]LogFbx: Triangulating skeletal mesh bloke_reto
+[2023.03.13-14.48.18:884][134]LogFbx: Triangulating skeletal mesh hands_reto
+[2023.03.13-14.48.18:975][134]LogFbx: Triangulating skeletal mesh hood_reto
+[2023.03.13-14.48.19:003][134]LogFbx: Triangulating skeletal mesh top_reto
+[2023.03.13-14.48.19:043][134]LogFbx: Triangulating skeletal mesh trousers_reto
+[2023.03.13-14.48.19:091][134]LogFbx: Triangulating skeletal mesh feet_reto
+[2023.03.13-14.48.19:123][134]LogFbx: Triangulating skeletal mesh cuffs_reto
+[2023.03.13-14.48.19:140][134]LogFbx: Triangulating skeletal mesh polySurface9
+[2023.03.13-14.48.19:145][134]LogFbx: Triangulating skeletal mesh eyes
+[2023.03.13-14.48.19:413][134]LogFbx: Warning: Bones digested - 49  Depth of hierarchy - 12
+[2023.03.13-14.48.19:854][134]LogSkeletalMesh: Section 0: Material=0, 19246 triangles
+[2023.03.13-14.48.19:858][134]LogSkeletalMesh: Building Skeletal Mesh Gangnam_Style...
+[2023.03.13-14.48.20:278][134]LogSkeletalMesh: Section 0: Material=0, 19246 triangles
+[2023.03.13-14.48.20:306][134]LogSkeletalMesh: Built Skeletal Mesh [0.45s] /Game/Widgets/images/Gangnam_Style.Gangnam_Style
+[2023.03.13-14.48.20:354][134]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2023.03.13-14.48.20:355][134]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.13-14.48.20:397][134]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.03.13-14.48.20:544][134]LogSlate: Took 0.002973 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.03.13-14.48.20:597][137]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.03.13-14.48.20:605][137]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2023.03.13-14.48.20:605][137]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.03.13-14.48.20:615][137]LogShaderCompilers: Display: Submitted 30 shader compile jobs with 'Normal' priority
+[2023.03.13-14.48.20:660][140]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2023.03.13-14.48.20:660][140]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.03.13-14.48.22:430][322]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 28
+[2023.03.13-14.48.22:430][322]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.03.13-14.48.22:434][322]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.13-14.48.22:434][322]LogShaderCompilers: Display: Total job queries 64, among them cache hits 0 (0.00%)
+[2023.03.13-14.48.22:434][322]LogShaderCompilers: Display: Tracking 2 distinct input hashes that result in 2 distinct outputs (100.00%)
+[2023.03.13-14.48.22:434][322]LogShaderCompilers: Display: RAM used: 0.01 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2023.03.13-14.48.22:434][322]LogShaderCompilers: Display: ================================================
+[2023.03.13-14.48.22:589][341]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 18
+[2023.03.13-14.48.22:589][341]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.03.13-14.48.25:329][605]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2023.03.13-14.48.25:329][605]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2023.03.13-14.48.25:617][639]LogSlate: Window 'Message Log' being destroyed
+[2023.03.13-14.48.25:620][639]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2023.03.13-14.48.25:620][639]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.03.13-14.48.25:620][639]LogSlate: Window 'Message Log' being destroyed
+[2023.03.13-14.48.26:038][688]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2023.03.13-14.48.26:038][688]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.03.13-14.48.31:995][197]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.13-14.48.32:009][197]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.13-14.48.32:009][197]PIE: New page: PIE session: TutorialLevel (13 Mar 2023, 14:48:32)
+[2023.03.13-14.48.32:009][197]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TutorialLevel
+[2023.03.13-14.48.32:066][197]LogPlayLevel: PIE: StaticDuplicateObject took: (0.057612s)
+[2023.03.13-14.48.32:067][197]LogAIModule: Creating AISystem for world TutorialLevel
+[2023.03.13-14.48.32:067][197]LogPlayLevel: PIE: World Init took: (0.001198s)
+[2023.03.13-14.48.32:067][197]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TutorialLevel.TutorialLevel to /Game/Maps/UEDPIE_0_TutorialLevel.TutorialLevel (0.058994s)
+[2023.03.13-14.48.32:088][197]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2023.03.13-14.48.32:090][197]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.03.13-14.48.32:090][197]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.13-14.48.32:090][197]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.13-14.48.32:090][197]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.13-14.48.32:090][197]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.13-14.48.32:090][197]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.13-14.48.32:090][197]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.13-14.48.32:090][197]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.13-14.48.32:090][197]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.13-14.48.32:091][197]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.13-14.48.32:091][197]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.13-14.48.32:091][197]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.13-14.48.32:091][197]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.13-14.48.32:092][197]LogAudioMixer: Display: Using Audio Device Unknown
+[2023.03.13-14.48.32:092][197]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.13-14.48.32:092][197]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.13-14.48.32:092][197]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.13-14.48.32:092][197]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.13-14.48.32:092][197]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.13-14.48.32:093][197]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.13-14.48.32:094][197]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.13-14.48.32:094][197]LogAudioMixer: Display: StartRunningNullDevice() called
+[2023.03.13-14.48.32:094][197]LogInit: FAudioDevice initialized.
+[2023.03.13-14.48.32:094][197]LogAudio: Display: Audio Device (ID: 5) registered with world 'TutorialLevel'.
+[2023.03.13-14.48.32:104][197]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.03.13-14.48.32:129][197]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TutorialLevel.TutorialLevel up for play (max tick rate 0) at 2023.03.13-14.48.32
+[2023.03.13-14.48.32:131][197]LogWorld: Bringing up level for play took: 0.025453
+[2023.03.13-14.48.32:131][197]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2023.03.13-14.48.32:136][197]PIE: Server logged in
+[2023.03.13-14.48.32:136][197]PIE: Play in editor total start time 0.135 seconds.
+[2023.03.13-14.48.35:228][541]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.13-14.48.35:228][541]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TutorialLevel
+[2023.03.13-14.48.35:229][541]LogWorld: UWorld::CleanupWorld for TutorialLevel, bSessionEnded=true, bCleanupResources=true
+[2023.03.13-14.48.35:236][541]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.13-14.48.35:246][541]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.13-14.48.35:268][541]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.13-14.48.35:286][541]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.13-14.48.35:287][541]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.13-14.48.35:288][541]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.13-14.48.35:288][541]LogAudioMixer: Display: StopRunningNullDevice() called
+[2023.03.13-14.48.35:297][541]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.13-14.48.35:304][541]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2023.03.13-14.48.35:332][542]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2023.03.13-14.48.48:783][ 97]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.13-14.48.48:799][ 97]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.13-14.48.48:799][ 97]PIE: New page: PIE session: TutorialLevel (13 Mar 2023, 14:48:48)
+[2023.03.13-14.48.48:799][ 97]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TutorialLevel
+[2023.03.13-14.48.48:854][ 97]LogPlayLevel: PIE: StaticDuplicateObject took: (0.056059s)
+[2023.03.13-14.48.48:855][ 97]LogAIModule: Creating AISystem for world TutorialLevel
+[2023.03.13-14.48.48:855][ 97]LogPlayLevel: PIE: World Init took: (0.001299s)
+[2023.03.13-14.48.48:855][ 97]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TutorialLevel.TutorialLevel to /Game/Maps/UEDPIE_0_TutorialLevel.TutorialLevel (0.057562s)
+[2023.03.13-14.48.48:874][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2023.03.13-14.48.48:874][ 97]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.03.13-14.48.48:874][ 97]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.13-14.48.48:874][ 97]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.13-14.48.48:875][ 97]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.13-14.48.48:875][ 97]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.13-14.48.48:875][ 97]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.13-14.48.48:875][ 97]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.13-14.48.48:875][ 97]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.13-14.48.48:875][ 97]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.13-14.48.48:875][ 97]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.13-14.48.48:875][ 97]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.13-14.48.48:875][ 97]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.13-14.48.48:875][ 97]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.13-14.48.48:876][ 97]LogAudioMixer: Display: Using Audio Device Unknown
+[2023.03.13-14.48.48:877][ 97]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.13-14.48.48:877][ 97]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.13-14.48.48:877][ 97]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.13-14.48.48:877][ 97]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.13-14.48.48:877][ 97]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.13-14.48.48:877][ 97]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.13-14.48.48:878][ 97]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.13-14.48.48:878][ 97]LogAudioMixer: Display: StartRunningNullDevice() called
+[2023.03.13-14.48.48:879][ 97]LogInit: FAudioDevice initialized.
+[2023.03.13-14.48.48:879][ 97]LogAudio: Display: Audio Device (ID: 6) registered with world 'TutorialLevel'.
+[2023.03.13-14.48.48:890][ 97]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.03.13-14.48.48:915][ 97]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TutorialLevel.TutorialLevel up for play (max tick rate 0) at 2023.03.13-14.48.48
+[2023.03.13-14.48.48:916][ 97]LogWorld: Bringing up level for play took: 0.025177
+[2023.03.13-14.48.48:916][ 97]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2023.03.13-14.48.48:921][ 97]PIE: Server logged in
+[2023.03.13-14.48.48:921][ 97]PIE: Play in editor total start time 0.131 seconds.
+[2023.03.13-14.48.51:713][411]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.13-14.48.51:713][411]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TutorialLevel
+[2023.03.13-14.48.51:714][411]LogWorld: UWorld::CleanupWorld for TutorialLevel, bSessionEnded=true, bCleanupResources=true
+[2023.03.13-14.48.51:721][411]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.13-14.48.51:744][411]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.13-14.48.51:773][411]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.13-14.48.51:793][411]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.13-14.48.51:793][411]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.13-14.48.51:794][411]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.13-14.48.51:794][411]LogAudioMixer: Display: StopRunningNullDevice() called
+[2023.03.13-14.48.51:814][411]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2023.03.13-14.48.51:847][412]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2023.03.13-14.49.00:771][323]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Widgets/images/Gangnam_Style.Gangnam_Style
+[2023.03.13-14.49.00:822][323]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2023.03.13-14.49.00:829][323]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2023.03.13-14.49.00:934][323]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2023.03.13-14.49.01:042][323]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.03.13-14.49.01:043][323]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2023.03.13-14.49.01:637][324]LogRenderer: Reallocating scene render targets to support 1208x656 Format 10 NumSamples 1 (Frame:1).
+[2023.03.13-14.49.05:083][615]LogSlate: Window 'Gangnam_Style' being destroyed
+[2023.03.13-14.49.05:093][615]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2023.03.13-14.49.05:093][615]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.13-14.49.07:133][747]LogActor: Warning: SetReplicates called on non-initialized actor SkeletalMeshActor_3. Directly setting bReplicates is the correct procedure for pre-init actors.
+[2023.03.13-14.49.08:296][863]LogActor: Warning: SetReplicates called on non-initialized actor SkeletalMeshActor_4. Directly setting bReplicates is the correct procedure for pre-init actors.
+[2023.03.13-14.49.08:934][936]Cmd: DELETE
+[2023.03.13-14.49.08:934][936]Cmd: ACTOR DELETE
+[2023.03.13-14.49.08:956][936]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2023.03.13-14.49.09:001][936]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2023.03.13-14.49.09:003][936]LogEditorActor: Deleted 1 Actors (0.068 secs)
+[2023.03.13-14.49.09:888][ 42]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Gangnam_Style)
+[2023.03.13-14.49.10:234][ 80]Cmd: DELETE
+[2023.03.13-14.49.10:234][ 80]Cmd: ACTOR DELETE
+[2023.03.13-14.49.10:255][ 80]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2023.03.13-14.49.10:279][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2023.03.13-14.49.10:279][ 80]LogEditorActor: Deleted 1 Actors (0.047 secs)
+[2023.03.13-14.49.18:901][845]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2023.03.13-14.49.20:199][845]LogSlate: Window 'Delete Assets' being destroyed
+[2023.03.13-14.49.20:266][845]LogUObjectGlobals: Force Deleting 3 Package(s):
+	Asset Name: /Game/Widgets/images/Gangnam_Style_Skeleton.Gangnam_Style_Skeleton
+	Asset Name: /Game/Widgets/images/Gangnam_Style.Gangnam_Style
+	Asset Name: /Game/Widgets/images/Gangnam_Style_PhysicsAsset.Gangnam_Style_PhysicsAsset
+[2023.03.13-14.49.21:682][845]LogObjectTools: Warning: Detected inconsistencies between reference gathering algorithms. Switching 'Editor.UseLegacyGetReferencersForDeletion' on for the remainder of this editor session.
+[2023.03.13-14.49.22:266][845]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2023.03.13-14.49.23:826][960]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.03.13-14.49.25:566][960]LogSlate: Window 'Delete Assets' being destroyed
+[2023.03.13-14.49.25:696][960]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2023.03.13-14.49.32:093][ 92]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\mg05257163\Downloads\Gangnam Style.fbx)
+[2023.03.13-14.49.32:106][ 92]LogFbx: Loading FBX Scene from C:\Users\mg05257163\Downloads\Gangnam Style.fbx
+[2023.03.13-14.49.32:150][ 92]LogFbx: FBX Scene Loaded Succesfully
+[2023.03.13-14.49.38:523][ 92]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.03.13-14.49.38:543][ 92]LogFbx: Valid bind pose for Pose (BindPose) - bloke_reto
+[2023.03.13-14.49.38:544][ 92]LogMaterial: Display: Material /Game/Widgets/images/lambert1.lambert1 needed to have new flag set bUsedWithSkeletalMesh !
+[2023.03.13-14.49.38:545][ 92]LogMaterial: Display: Missing cached shadermap for lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: 72B462F12EA1D50436CFA27F1B7DD8B3276E69F7), compiling. 
+[2023.03.13-14.49.38:566][ 92]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2023.03.13-14.49.38:569][ 92]LogMaterial: Display: Missing cached shadermap for lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: 09DFF309AE92E87B3A233901B5F41790FD4E3276), compiling. 
+[2023.03.13-14.49.38:575][ 92]LogFbx: Triangulating skeletal mesh bloke_reto
+[2023.03.13-14.49.38:652][ 92]LogFbx: Triangulating skeletal mesh hands_reto
+[2023.03.13-14.49.38:743][ 92]LogFbx: Triangulating skeletal mesh hood_reto
+[2023.03.13-14.49.38:771][ 92]LogFbx: Triangulating skeletal mesh top_reto
+[2023.03.13-14.49.38:811][ 92]LogFbx: Triangulating skeletal mesh trousers_reto
+[2023.03.13-14.49.38:860][ 92]LogFbx: Triangulating skeletal mesh feet_reto
+[2023.03.13-14.49.38:895][ 92]LogFbx: Triangulating skeletal mesh cuffs_reto
+[2023.03.13-14.49.38:912][ 92]LogFbx: Triangulating skeletal mesh polySurface9
+[2023.03.13-14.49.38:918][ 92]LogFbx: Triangulating skeletal mesh eyes
+[2023.03.13-14.49.39:184][ 92]LogFbx: Warning: Bones digested - 49  Depth of hierarchy - 12
+[2023.03.13-14.49.39:629][ 92]LogSkeletalMesh: Section 0: Material=0, 19246 triangles
+[2023.03.13-14.49.39:634][ 92]LogSkeletalMesh: Building Skeletal Mesh Gangnam_Style...
+[2023.03.13-14.49.40:060][ 92]LogSkeletalMesh: Section 0: Material=0, 19246 triangles
+[2023.03.13-14.49.40:090][ 92]LogSkeletalMesh: Built Skeletal Mesh [0.46s] /Game/Widgets/images/Gangnam_Style.Gangnam_Style
+[2023.03.13-14.49.40:141][ 92]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2023.03.13-14.49.40:141][ 92]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.13-14.49.40:148][ 92]LogFbx: SortedLinks :(0) Hips
+[2023.03.13-14.49.40:148][ 92]LogFbx: SortedLinks :(1) Spine
+[2023.03.13-14.49.40:148][ 92]LogFbx: SortedLinks :(2) Spine1
+[2023.03.13-14.49.40:148][ 92]LogFbx: SortedLinks :(3) Spine2
+[2023.03.13-14.49.40:148][ 92]LogFbx: SortedLinks :(4) Neck
+[2023.03.13-14.49.40:148][ 92]LogFbx: SortedLinks :(5) Head
+[2023.03.13-14.49.40:148][ 92]LogFbx: SortedLinks :(6) HeadTop_End
+[2023.03.13-14.49.40:148][ 92]LogFbx: SortedLinks :(7) LeftShoulder
+[2023.03.13-14.49.40:148][ 92]LogFbx: SortedLinks :(8) LeftArm
+[2023.03.13-14.49.40:148][ 92]LogFbx: SortedLinks :(9) LeftForeArm
+[2023.03.13-14.49.40:148][ 92]LogFbx: SortedLinks :(10) LeftHand
+[2023.03.13-14.49.40:148][ 92]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2023.03.13-14.49.40:148][ 92]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2023.03.13-14.49.40:148][ 92]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2023.03.13-14.49.40:148][ 92]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2023.03.13-14.49.40:148][ 92]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2023.03.13-14.49.40:148][ 92]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2023.03.13-14.49.40:148][ 92]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2023.03.13-14.49.40:148][ 92]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2023.03.13-14.49.40:148][ 92]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2023.03.13-14.49.40:148][ 92]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2023.03.13-14.49.40:148][ 92]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2023.03.13-14.49.40:148][ 92]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2023.03.13-14.49.40:148][ 92]LogFbx: SortedLinks :(23) RightShoulder
+[2023.03.13-14.49.40:148][ 92]LogFbx: SortedLinks :(24) RightArm
+[2023.03.13-14.49.40:148][ 92]LogFbx: SortedLinks :(25) RightForeArm
+[2023.03.13-14.49.40:148][ 92]LogFbx: SortedLinks :(26) RightHand
+[2023.03.13-14.49.40:148][ 92]LogFbx: SortedLinks :(27) RightHandThumb1
+[2023.03.13-14.49.40:148][ 92]LogFbx: SortedLinks :(28) RightHandThumb2
+[2023.03.13-14.49.40:148][ 92]LogFbx: SortedLinks :(29) RightHandThumb3
+[2023.03.13-14.49.40:148][ 92]LogFbx: SortedLinks :(30) RightHandThumb4
+[2023.03.13-14.49.40:148][ 92]LogFbx: SortedLinks :(31) RightHandIndex1
+[2023.03.13-14.49.40:148][ 92]LogFbx: SortedLinks :(32) RightHandIndex2
+[2023.03.13-14.49.40:148][ 92]LogFbx: SortedLinks :(33) RightHandIndex3
+[2023.03.13-14.49.40:148][ 92]LogFbx: SortedLinks :(34) RightHandIndex4
+[2023.03.13-14.49.40:148][ 92]LogFbx: SortedLinks :(35) RightHandMiddle1
+[2023.03.13-14.49.40:148][ 92]LogFbx: SortedLinks :(36) RightHandMiddle2
+[2023.03.13-14.49.40:148][ 92]LogFbx: SortedLinks :(37) RightHandMiddle3
+[2023.03.13-14.49.40:148][ 92]LogFbx: SortedLinks :(38) RightHandMiddle4
+[2023.03.13-14.49.40:148][ 92]LogFbx: SortedLinks :(39) LeftUpLeg
+[2023.03.13-14.49.40:148][ 92]LogFbx: SortedLinks :(40) LeftLeg
+[2023.03.13-14.49.40:148][ 92]LogFbx: SortedLinks :(41) LeftFoot
+[2023.03.13-14.49.40:148][ 92]LogFbx: SortedLinks :(42) LeftToeBase
+[2023.03.13-14.49.40:148][ 92]LogFbx: SortedLinks :(43) LeftToe_End
+[2023.03.13-14.49.40:148][ 92]LogFbx: SortedLinks :(44) RightUpLeg
+[2023.03.13-14.49.40:148][ 92]LogFbx: SortedLinks :(45) RightLeg
+[2023.03.13-14.49.40:148][ 92]LogFbx: SortedLinks :(46) RightFoot
+[2023.03.13-14.49.40:148][ 92]LogFbx: SortedLinks :(47) RightToeBase
+[2023.03.13-14.49.40:148][ 92]LogFbx: SortedLinks :(48) RightToe_End
+[2023.03.13-14.49.40:148][ 92]LogFbx: SortedLinks :(0) Hips
+[2023.03.13-14.49.40:148][ 92]LogFbx: SortedLinks :(1) Spine
+[2023.03.13-14.49.40:148][ 92]LogFbx: SortedLinks :(2) Spine1
+[2023.03.13-14.49.40:148][ 92]LogFbx: SortedLinks :(3) Spine2
+[2023.03.13-14.49.40:148][ 92]LogFbx: SortedLinks :(4) Neck
+[2023.03.13-14.49.40:148][ 92]LogFbx: SortedLinks :(5) Head
+[2023.03.13-14.49.40:148][ 92]LogFbx: SortedLinks :(6) HeadTop_End
+[2023.03.13-14.49.40:148][ 92]LogFbx: SortedLinks :(7) LeftShoulder
+[2023.03.13-14.49.40:148][ 92]LogFbx: SortedLinks :(8) LeftArm
+[2023.03.13-14.49.40:148][ 92]LogFbx: SortedLinks :(9) LeftForeArm
+[2023.03.13-14.49.40:148][ 92]LogFbx: SortedLinks :(10) LeftHand
+[2023.03.13-14.49.40:148][ 92]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2023.03.13-14.49.40:148][ 92]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2023.03.13-14.49.40:148][ 92]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2023.03.13-14.49.40:148][ 92]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2023.03.13-14.49.40:148][ 92]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2023.03.13-14.49.40:148][ 92]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2023.03.13-14.49.40:148][ 92]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2023.03.13-14.49.40:148][ 92]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2023.03.13-14.49.40:148][ 92]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2023.03.13-14.49.40:148][ 92]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2023.03.13-14.49.40:148][ 92]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2023.03.13-14.49.40:148][ 92]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2023.03.13-14.49.40:148][ 92]LogFbx: SortedLinks :(23) RightShoulder
+[2023.03.13-14.49.40:148][ 92]LogFbx: SortedLinks :(24) RightArm
+[2023.03.13-14.49.40:148][ 92]LogFbx: SortedLinks :(25) RightForeArm
+[2023.03.13-14.49.40:149][ 92]LogFbx: SortedLinks :(26) RightHand
+[2023.03.13-14.49.40:149][ 92]LogFbx: SortedLinks :(27) RightHandThumb1
+[2023.03.13-14.49.40:149][ 92]LogFbx: SortedLinks :(28) RightHandThumb2
+[2023.03.13-14.49.40:149][ 92]LogFbx: SortedLinks :(29) RightHandThumb3
+[2023.03.13-14.49.40:149][ 92]LogFbx: SortedLinks :(30) RightHandThumb4
+[2023.03.13-14.49.40:149][ 92]LogFbx: SortedLinks :(31) RightHandIndex1
+[2023.03.13-14.49.40:149][ 92]LogFbx: SortedLinks :(32) RightHandIndex2
+[2023.03.13-14.49.40:149][ 92]LogFbx: SortedLinks :(33) RightHandIndex3
+[2023.03.13-14.49.40:149][ 92]LogFbx: SortedLinks :(34) RightHandIndex4
+[2023.03.13-14.49.40:149][ 92]LogFbx: SortedLinks :(35) RightHandMiddle1
+[2023.03.13-14.49.40:149][ 92]LogFbx: SortedLinks :(36) RightHandMiddle2
+[2023.03.13-14.49.40:149][ 92]LogFbx: SortedLinks :(37) RightHandMiddle3
+[2023.03.13-14.49.40:149][ 92]LogFbx: SortedLinks :(38) RightHandMiddle4
+[2023.03.13-14.49.40:149][ 92]LogFbx: SortedLinks :(39) LeftUpLeg
+[2023.03.13-14.49.40:149][ 92]LogFbx: SortedLinks :(40) LeftLeg
+[2023.03.13-14.49.40:149][ 92]LogFbx: SortedLinks :(41) LeftFoot
+[2023.03.13-14.49.40:149][ 92]LogFbx: SortedLinks :(42) LeftToeBase
+[2023.03.13-14.49.40:149][ 92]LogFbx: SortedLinks :(43) LeftToe_End
+[2023.03.13-14.49.40:149][ 92]LogFbx: SortedLinks :(44) RightUpLeg
+[2023.03.13-14.49.40:149][ 92]LogFbx: SortedLinks :(45) RightLeg
+[2023.03.13-14.49.40:149][ 92]LogFbx: SortedLinks :(46) RightFoot
+[2023.03.13-14.49.40:149][ 92]LogFbx: SortedLinks :(47) RightToeBase
+[2023.03.13-14.49.40:149][ 92]LogFbx: SortedLinks :(48) RightToe_End
+[2023.03.13-14.49.40:149][ 92]LogFbx: Parsing AnimStack Take 001
+[2023.03.13-14.49.52:217][ 92]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Widgets/images/Gangnam_Style_Anim_Take_001.Gangnam_Style_Anim_Take_001
+[2023.03.13-14.49.52:240][ 92]LogFbx: Parsing AnimStack mixamo.com
+[2023.03.13-14.50.17:460][ 92]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Widgets/images/Gangnam_Style_Anim_mixamo_com.Gangnam_Style_Anim_mixamo_com
+[2023.03.13-14.50.17:481][ 92]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.03.13-14.50.43:016][269]LogSlate: Window 'Message Log' being destroyed
+[2023.03.13-14.50.43:019][269]LogSlate: Window 'Message Log' being destroyed
+[2023.03.13-14.50.49:586][867]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.13-14.50.49:598][867]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.13-14.50.49:599][867]PIE: New page: PIE session: TutorialLevel (13 Mar 2023, 14:50:49)
+[2023.03.13-14.50.49:623][867]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TutorialLevel
+[2023.03.13-14.50.49:700][867]LogPlayLevel: PIE: StaticDuplicateObject took: (0.078093s)
+[2023.03.13-14.50.49:701][867]LogAIModule: Creating AISystem for world TutorialLevel
+[2023.03.13-14.50.49:702][867]LogPlayLevel: PIE: World Init took: (0.001282s)
+[2023.03.13-14.50.49:702][867]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TutorialLevel.TutorialLevel to /Game/Maps/UEDPIE_0_TutorialLevel.TutorialLevel (0.079779s)
+[2023.03.13-14.50.49:729][867]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2023.03.13-14.50.49:746][867]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.03.13-14.50.49:746][867]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.13-14.50.49:746][867]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.13-14.50.49:746][867]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.13-14.50.49:746][867]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.13-14.50.49:746][867]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.13-14.50.49:746][867]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.13-14.50.49:746][867]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.13-14.50.49:746][867]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.13-14.50.49:747][867]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.13-14.50.49:747][867]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.13-14.50.49:747][867]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.13-14.50.49:747][867]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.13-14.50.49:748][867]LogAudioMixer: Display: Using Audio Device Unknown
+[2023.03.13-14.50.49:748][867]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.13-14.50.49:748][867]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.13-14.50.49:748][867]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.13-14.50.49:749][867]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.13-14.50.49:749][867]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.13-14.50.49:749][867]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.13-14.50.49:750][867]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.13-14.50.49:750][867]LogAudioMixer: Display: StartRunningNullDevice() called
+[2023.03.13-14.50.49:751][867]LogInit: FAudioDevice initialized.
+[2023.03.13-14.50.49:751][867]LogAudio: Display: Audio Device (ID: 7) registered with world 'TutorialLevel'.
+[2023.03.13-14.50.49:757][867]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.03.13-14.50.49:784][867]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TutorialLevel.TutorialLevel up for play (max tick rate 0) at 2023.03.13-14.50.49
+[2023.03.13-14.50.49:785][867]LogWorld: Bringing up level for play took: 0.026775
+[2023.03.13-14.50.49:785][867]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2023.03.13-14.50.49:790][867]PIE: Server logged in
+[2023.03.13-14.50.49:791][867]PIE: Play in editor total start time 0.199 seconds.
+[2023.03.13-14.50.51:231][ 12]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.13-14.50.51:231][ 12]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TutorialLevel
+[2023.03.13-14.50.51:232][ 12]LogWorld: UWorld::CleanupWorld for TutorialLevel, bSessionEnded=true, bCleanupResources=true
+[2023.03.13-14.50.51:240][ 12]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.13-14.50.51:252][ 12]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.13-14.50.51:272][ 12]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.13-14.50.51:294][ 12]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.13-14.50.51:296][ 12]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.13-14.50.51:297][ 12]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.13-14.50.51:297][ 12]LogAudioMixer: Display: StopRunningNullDevice() called
+[2023.03.13-14.50.51:310][ 12]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.13-14.50.51:321][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2023.03.13-14.50.51:352][ 13]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2023.03.13-14.50.52:246][118]Cmd: DELETE
+[2023.03.13-14.50.52:246][118]Cmd: ACTOR DELETE
+[2023.03.13-14.50.52:272][118]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2023.03.13-14.50.52:295][118]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2023.03.13-14.50.52:297][118]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2023.03.13-14.50.54:444][293]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Widgets/images/Gangnam_Style.Gangnam_Style
+[2023.03.13-14.50.54:448][293]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.03.13-14.50.57:007][533]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Widgets/images/Gangnam_Style_Anim_Take_001.Gangnam_Style_Anim_Take_001
+[2023.03.13-14.50.57:036][533]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.03.13-14.50.57:612][533]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.03.13-14.51.03:423][150]LogSlate: Window 'Gangnam_Style_Anim_Take_001' being destroyed
+[2023.03.13-14.51.03:431][150]LogSlate: Window 'Gangnam_Style_Anim_Take_001' being destroyed
+[2023.03.13-14.51.03:469][150]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2023.03.13-14.51.03:470][150]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.13-14.51.03:532][150]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2023.03.13-14.51.03:532][150]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.13-14.51.03:576][150]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2023.03.13-14.51.03:576][150]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.13-14.51.07:010][482]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2023.03.13-14.51.09:571][482]LogSlate: Window 'Delete Assets' being destroyed
+[2023.03.13-14.51.11:269][482]LogUObjectGlobals: Force Deleting 6 Package(s):
+	Asset Name: /Game/Widgets/images/Gangnam_Style.Gangnam_Style
+	Asset Name: /Game/Widgets/images/Gangnam_Style_Anim_mixamo_com.Gangnam_Style_Anim_mixamo_com
+	Asset Name: /Game/Widgets/images/Gangnam_Style_Anim_Take_001.Gangnam_Style_Anim_Take_001
+	Asset Name: /Game/Widgets/images/Gangnam_Style_PhysicsAsset.Gangnam_Style_PhysicsAsset
+	Asset Name: /Game/Widgets/images/Gangnam_Style_Skeleton.Gangnam_Style_Skeleton
+	Asset Name: /Game/Widgets/images/lambert1.lambert1
+[2023.03.13-14.51.13:298][482]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2023.03.13-14.51.16:245][514]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\mg05257163\Downloads\Gangnam Style.fbx)
+[2023.03.13-14.51.16:258][514]LogFbx: Loading FBX Scene from C:\Users\mg05257163\Downloads\Gangnam Style.fbx
+[2023.03.13-14.51.16:304][514]LogFbx: FBX Scene Loaded Succesfully
+[2023.03.13-14.51.39:934][514]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.03.13-14.51.39:953][514]LogFbx: Valid bind pose for Pose (BindPose) - bloke_reto
+[2023.03.13-14.51.39:954][514]LogMaterial: Display: Material /Game/Widgets/images/lambert1.lambert1 needed to have new flag set bUsedWithSkeletalMesh !
+[2023.03.13-14.51.39:956][514]LogMaterial: Display: Missing cached shadermap for lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: FDD87D47C805458BA446BD44E45A6AB53FD33207), compiling. 
+[2023.03.13-14.51.39:977][514]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2023.03.13-14.51.39:980][514]LogMaterial: Display: Missing cached shadermap for lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: 37B3D4A4CDE64B9E08F98F315AEB577E08EA780B), compiling. 
+[2023.03.13-14.51.39:986][514]LogFbx: Triangulating skeletal mesh bloke_reto
+[2023.03.13-14.51.40:064][514]LogFbx: Triangulating skeletal mesh hands_reto
+[2023.03.13-14.51.40:155][514]LogFbx: Triangulating skeletal mesh hood_reto
+[2023.03.13-14.51.40:183][514]LogFbx: Triangulating skeletal mesh top_reto
+[2023.03.13-14.51.40:222][514]LogFbx: Triangulating skeletal mesh trousers_reto
+[2023.03.13-14.51.40:271][514]LogFbx: Triangulating skeletal mesh feet_reto
+[2023.03.13-14.51.40:305][514]LogFbx: Triangulating skeletal mesh cuffs_reto
+[2023.03.13-14.51.40:321][514]LogFbx: Triangulating skeletal mesh polySurface9
+[2023.03.13-14.51.40:327][514]LogFbx: Triangulating skeletal mesh eyes
+[2023.03.13-14.51.40:590][514]LogFbx: Warning: Bones digested - 49  Depth of hierarchy - 12
+[2023.03.13-14.51.41:017][514]LogSkeletalMesh: Section 0: Material=0, 19246 triangles
+[2023.03.13-14.51.41:021][514]LogSkeletalMesh: Building Skeletal Mesh Gangnam_Style...
+[2023.03.13-14.51.41:437][514]LogSkeletalMesh: Section 0: Material=0, 19246 triangles
+[2023.03.13-14.51.41:462][514]LogSkeletalMesh: Built Skeletal Mesh [0.44s] /Game/Widgets/images/Gangnam_Style.Gangnam_Style
+[2023.03.13-14.51.41:505][514]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2023.03.13-14.51.41:505][514]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.13-14.51.41:513][514]LogFbx: SortedLinks :(0) Hips
+[2023.03.13-14.51.41:513][514]LogFbx: SortedLinks :(1) Spine
+[2023.03.13-14.51.41:513][514]LogFbx: SortedLinks :(2) Spine1
+[2023.03.13-14.51.41:513][514]LogFbx: SortedLinks :(3) Spine2
+[2023.03.13-14.51.41:513][514]LogFbx: SortedLinks :(4) Neck
+[2023.03.13-14.51.41:513][514]LogFbx: SortedLinks :(5) Head
+[2023.03.13-14.51.41:513][514]LogFbx: SortedLinks :(6) HeadTop_End
+[2023.03.13-14.51.41:513][514]LogFbx: SortedLinks :(7) LeftShoulder
+[2023.03.13-14.51.41:513][514]LogFbx: SortedLinks :(8) LeftArm
+[2023.03.13-14.51.41:513][514]LogFbx: SortedLinks :(9) LeftForeArm
+[2023.03.13-14.51.41:513][514]LogFbx: SortedLinks :(10) LeftHand
+[2023.03.13-14.51.41:513][514]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2023.03.13-14.51.41:513][514]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2023.03.13-14.51.41:513][514]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2023.03.13-14.51.41:513][514]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2023.03.13-14.51.41:513][514]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2023.03.13-14.51.41:513][514]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2023.03.13-14.51.41:513][514]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2023.03.13-14.51.41:513][514]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2023.03.13-14.51.41:513][514]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2023.03.13-14.51.41:513][514]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2023.03.13-14.51.41:513][514]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2023.03.13-14.51.41:513][514]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2023.03.13-14.51.41:513][514]LogFbx: SortedLinks :(23) RightShoulder
+[2023.03.13-14.51.41:513][514]LogFbx: SortedLinks :(24) RightArm
+[2023.03.13-14.51.41:513][514]LogFbx: SortedLinks :(25) RightForeArm
+[2023.03.13-14.51.41:513][514]LogFbx: SortedLinks :(26) RightHand
+[2023.03.13-14.51.41:513][514]LogFbx: SortedLinks :(27) RightHandThumb1
+[2023.03.13-14.51.41:513][514]LogFbx: SortedLinks :(28) RightHandThumb2
+[2023.03.13-14.51.41:513][514]LogFbx: SortedLinks :(29) RightHandThumb3
+[2023.03.13-14.51.41:513][514]LogFbx: SortedLinks :(30) RightHandThumb4
+[2023.03.13-14.51.41:513][514]LogFbx: SortedLinks :(31) RightHandIndex1
+[2023.03.13-14.51.41:513][514]LogFbx: SortedLinks :(32) RightHandIndex2
+[2023.03.13-14.51.41:513][514]LogFbx: SortedLinks :(33) RightHandIndex3
+[2023.03.13-14.51.41:513][514]LogFbx: SortedLinks :(34) RightHandIndex4
+[2023.03.13-14.51.41:513][514]LogFbx: SortedLinks :(35) RightHandMiddle1
+[2023.03.13-14.51.41:513][514]LogFbx: SortedLinks :(36) RightHandMiddle2
+[2023.03.13-14.51.41:513][514]LogFbx: SortedLinks :(37) RightHandMiddle3
+[2023.03.13-14.51.41:513][514]LogFbx: SortedLinks :(38) RightHandMiddle4
+[2023.03.13-14.51.41:513][514]LogFbx: SortedLinks :(39) LeftUpLeg
+[2023.03.13-14.51.41:513][514]LogFbx: SortedLinks :(40) LeftLeg
+[2023.03.13-14.51.41:513][514]LogFbx: SortedLinks :(41) LeftFoot
+[2023.03.13-14.51.41:513][514]LogFbx: SortedLinks :(42) LeftToeBase
+[2023.03.13-14.51.41:513][514]LogFbx: SortedLinks :(43) LeftToe_End
+[2023.03.13-14.51.41:513][514]LogFbx: SortedLinks :(44) RightUpLeg
+[2023.03.13-14.51.41:513][514]LogFbx: SortedLinks :(45) RightLeg
+[2023.03.13-14.51.41:513][514]LogFbx: SortedLinks :(46) RightFoot
+[2023.03.13-14.51.41:513][514]LogFbx: SortedLinks :(47) RightToeBase
+[2023.03.13-14.51.41:513][514]LogFbx: SortedLinks :(48) RightToe_End
+[2023.03.13-14.51.41:513][514]LogFbx: SortedLinks :(0) Hips
+[2023.03.13-14.51.41:513][514]LogFbx: SortedLinks :(1) Spine
+[2023.03.13-14.51.41:513][514]LogFbx: SortedLinks :(2) Spine1
+[2023.03.13-14.51.41:513][514]LogFbx: SortedLinks :(3) Spine2
+[2023.03.13-14.51.41:513][514]LogFbx: SortedLinks :(4) Neck
+[2023.03.13-14.51.41:513][514]LogFbx: SortedLinks :(5) Head
+[2023.03.13-14.51.41:513][514]LogFbx: SortedLinks :(6) HeadTop_End
+[2023.03.13-14.51.41:513][514]LogFbx: SortedLinks :(7) LeftShoulder
+[2023.03.13-14.51.41:513][514]LogFbx: SortedLinks :(8) LeftArm
+[2023.03.13-14.51.41:513][514]LogFbx: SortedLinks :(9) LeftForeArm
+[2023.03.13-14.51.41:513][514]LogFbx: SortedLinks :(10) LeftHand
+[2023.03.13-14.51.41:513][514]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2023.03.13-14.51.41:513][514]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2023.03.13-14.51.41:513][514]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2023.03.13-14.51.41:513][514]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2023.03.13-14.51.41:513][514]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2023.03.13-14.51.41:513][514]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2023.03.13-14.51.41:513][514]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2023.03.13-14.51.41:513][514]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2023.03.13-14.51.41:513][514]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2023.03.13-14.51.41:514][514]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2023.03.13-14.51.41:514][514]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2023.03.13-14.51.41:514][514]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2023.03.13-14.51.41:514][514]LogFbx: SortedLinks :(23) RightShoulder
+[2023.03.13-14.51.41:514][514]LogFbx: SortedLinks :(24) RightArm
+[2023.03.13-14.51.41:514][514]LogFbx: SortedLinks :(25) RightForeArm
+[2023.03.13-14.51.41:514][514]LogFbx: SortedLinks :(26) RightHand
+[2023.03.13-14.51.41:514][514]LogFbx: SortedLinks :(27) RightHandThumb1
+[2023.03.13-14.51.41:514][514]LogFbx: SortedLinks :(28) RightHandThumb2
+[2023.03.13-14.51.41:514][514]LogFbx: SortedLinks :(29) RightHandThumb3
+[2023.03.13-14.51.41:514][514]LogFbx: SortedLinks :(30) RightHandThumb4
+[2023.03.13-14.51.41:514][514]LogFbx: SortedLinks :(31) RightHandIndex1
+[2023.03.13-14.51.41:514][514]LogFbx: SortedLinks :(32) RightHandIndex2
+[2023.03.13-14.51.41:514][514]LogFbx: SortedLinks :(33) RightHandIndex3
+[2023.03.13-14.51.41:514][514]LogFbx: SortedLinks :(34) RightHandIndex4
+[2023.03.13-14.51.41:514][514]LogFbx: SortedLinks :(35) RightHandMiddle1
+[2023.03.13-14.51.41:514][514]LogFbx: SortedLinks :(36) RightHandMiddle2
+[2023.03.13-14.51.41:514][514]LogFbx: SortedLinks :(37) RightHandMiddle3
+[2023.03.13-14.51.41:514][514]LogFbx: SortedLinks :(38) RightHandMiddle4
+[2023.03.13-14.51.41:514][514]LogFbx: SortedLinks :(39) LeftUpLeg
+[2023.03.13-14.51.41:514][514]LogFbx: SortedLinks :(40) LeftLeg
+[2023.03.13-14.51.41:514][514]LogFbx: SortedLinks :(41) LeftFoot
+[2023.03.13-14.51.41:514][514]LogFbx: SortedLinks :(42) LeftToeBase
+[2023.03.13-14.51.41:514][514]LogFbx: SortedLinks :(43) LeftToe_End
+[2023.03.13-14.51.41:514][514]LogFbx: SortedLinks :(44) RightUpLeg
+[2023.03.13-14.51.41:514][514]LogFbx: SortedLinks :(45) RightLeg
+[2023.03.13-14.51.41:514][514]LogFbx: SortedLinks :(46) RightFoot
+[2023.03.13-14.51.41:514][514]LogFbx: SortedLinks :(47) RightToeBase
+[2023.03.13-14.51.41:514][514]LogFbx: SortedLinks :(48) RightToe_End
+[2023.03.13-14.51.41:514][514]LogFbx: Parsing AnimStack Take 001
+[2023.03.13-14.51.41:714][514]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Widgets/images/Gangnam_Style_Anim_Take_001.Gangnam_Style_Anim_Take_001
+[2023.03.13-14.51.41:714][514]LogFbx: Parsing AnimStack mixamo.com
+[2023.03.13-14.51.42:101][514]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Widgets/images/Gangnam_Style_Anim_mixamo_com.Gangnam_Style_Anim_mixamo_com
+[2023.03.13-14.51.42:121][514]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.03.13-14.51.42:238][514]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.13-14.51.42:238][514]LogShaderCompilers: Display: Total job queries 162, among them cache hits 34 (20.99%)
+[2023.03.13-14.51.42:238][514]LogShaderCompilers: Display: Tracking 32 distinct input hashes that result in 23 distinct outputs (71.88%)
+[2023.03.13-14.51.42:238][514]LogShaderCompilers: Display: RAM used: 0.13 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.02%
+[2023.03.13-14.51.42:238][514]LogShaderCompilers: Display: ================================================
+[2023.03.13-14.52.26:962][857]LogSlate: Window 'Message Log' being destroyed
+[2023.03.13-14.52.26:965][857]LogSlate: Window 'Message Log' being destroyed
+[2023.03.13-14.52.28:682][ 11]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Widgets/images/Gangnam_Style_Anim_mixamo_com.Gangnam_Style_Anim_mixamo_com
+[2023.03.13-14.52.28:685][ 11]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.03.13-14.52.29:005][ 11]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.03.13-14.52.31:159][213]LogSlate: Window 'Gangnam_Style_Anim_mixamo_com' being destroyed
+[2023.03.13-14.52.31:168][213]LogSlate: Window 'Gangnam_Style_Anim_mixamo_com' being destroyed
+[2023.03.13-14.52.31:191][213]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2023.03.13-14.52.31:191][213]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.13-14.52.31:238][213]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2023.03.13-14.52.31:238][213]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.13-14.52.44:704][735]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.13-14.52.44:715][735]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.03.13-14.52.44:716][735]LogPlayLevel: [PlayLevel] Compiling PROTO_BP_AnimBlueprint_0 before play...
+[2023.03.13-14.52.44:750][735]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2023.03.13-14.52.44:755][735]LogPlayLevel: PlayLevel: Blueprint regeneration took 40 ms (1 blueprints)
+[2023.03.13-14.52.44:755][735]PIE: New page: PIE session: TutorialLevel (13 Mar 2023, 14:52:44)
+[2023.03.13-14.52.44:756][735]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TutorialLevel
+[2023.03.13-14.52.44:813][735]LogPlayLevel: PIE: StaticDuplicateObject took: (0.056602s)
+[2023.03.13-14.52.44:814][735]LogAIModule: Creating AISystem for world TutorialLevel
+[2023.03.13-14.52.44:815][735]LogPlayLevel: PIE: World Init took: (0.001237s)
+[2023.03.13-14.52.44:815][735]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TutorialLevel.TutorialLevel to /Game/Maps/UEDPIE_0_TutorialLevel.TutorialLevel (0.058057s)
+[2023.03.13-14.52.44:838][735]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2023.03.13-14.52.44:838][735]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2023.03.13-14.52.44:838][735]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.13-14.52.44:838][735]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.13-14.52.44:838][735]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.13-14.52.44:838][735]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.13-14.52.44:838][735]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.13-14.52.44:838][735]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.13-14.52.44:838][735]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.13-14.52.44:838][735]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.13-14.52.44:839][735]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.13-14.52.44:839][735]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.13-14.52.44:839][735]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.13-14.52.44:839][735]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.13-14.52.44:840][735]LogAudioMixer: Display: Using Audio Device Unknown
+[2023.03.13-14.52.44:840][735]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.13-14.52.44:840][735]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.13-14.52.44:840][735]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.13-14.52.44:841][735]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.13-14.52.44:841][735]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.13-14.52.44:841][735]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.13-14.52.44:842][735]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.13-14.52.44:842][735]LogAudioMixer: Display: StartRunningNullDevice() called
+[2023.03.13-14.52.44:843][735]LogInit: FAudioDevice initialized.
+[2023.03.13-14.52.44:843][735]LogAudio: Display: Audio Device (ID: 8) registered with world 'TutorialLevel'.
+[2023.03.13-14.52.44:857][735]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.03.13-14.52.44:885][735]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TutorialLevel.TutorialLevel up for play (max tick rate 0) at 2023.03.13-14.52.44
+[2023.03.13-14.52.44:886][735]LogWorld: Bringing up level for play took: 0.027809
+[2023.03.13-14.52.44:886][735]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2023.03.13-14.52.44:891][735]PIE: Server logged in
+[2023.03.13-14.52.44:892][735]PIE: Play in editor total start time 0.182 seconds.
+[2023.03.13-14.53.24:929][515]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.13-14.53.24:929][515]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TutorialLevel
+[2023.03.13-14.53.24:931][515]LogWorld: UWorld::CleanupWorld for TutorialLevel, bSessionEnded=true, bCleanupResources=true
+[2023.03.13-14.53.24:937][515]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.13-14.53.24:948][515]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.13-14.53.24:968][515]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.13-14.53.24:990][515]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.13-14.53.24:990][515]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.13-14.53.24:991][515]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.13-14.53.24:991][515]LogAudioMixer: Display: StopRunningNullDevice() called
+[2023.03.13-14.53.24:994][515]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.13-14.53.25:004][515]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2023.03.13-14.53.25:036][516]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2023.03.13-14.53.39:441][ 79]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.13-14.53.39:456][ 79]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.13-14.53.39:456][ 79]PIE: New page: PIE session: TutorialLevel (13 Mar 2023, 14:53:39)
+[2023.03.13-14.53.39:456][ 79]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TutorialLevel
+[2023.03.13-14.53.39:514][ 79]LogPlayLevel: PIE: StaticDuplicateObject took: (0.057733s)
+[2023.03.13-14.53.39:515][ 79]LogAIModule: Creating AISystem for world TutorialLevel
+[2023.03.13-14.53.39:515][ 79]LogPlayLevel: PIE: World Init took: (0.001585s)
+[2023.03.13-14.53.39:515][ 79]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TutorialLevel.TutorialLevel to /Game/Maps/UEDPIE_0_TutorialLevel.TutorialLevel (0.059554s)
+[2023.03.13-14.53.39:538][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2023.03.13-14.53.39:540][ 79]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.03.13-14.53.39:540][ 79]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.13-14.53.39:540][ 79]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.13-14.53.39:540][ 79]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.13-14.53.39:540][ 79]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.13-14.53.39:540][ 79]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.13-14.53.39:540][ 79]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.13-14.53.39:540][ 79]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.13-14.53.39:540][ 79]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.13-14.53.39:541][ 79]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.13-14.53.39:541][ 79]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.13-14.53.39:541][ 79]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.13-14.53.39:541][ 79]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.13-14.53.39:542][ 79]LogAudioMixer: Display: Using Audio Device Unknown
+[2023.03.13-14.53.39:542][ 79]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.13-14.53.39:542][ 79]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.13-14.53.39:542][ 79]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.13-14.53.39:543][ 79]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.13-14.53.39:543][ 79]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.13-14.53.39:543][ 79]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.13-14.53.39:544][ 79]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.13-14.53.39:544][ 79]LogAudioMixer: Display: StartRunningNullDevice() called
+[2023.03.13-14.53.39:545][ 79]LogInit: FAudioDevice initialized.
+[2023.03.13-14.53.39:545][ 79]LogAudio: Display: Audio Device (ID: 9) registered with world 'TutorialLevel'.
+[2023.03.13-14.53.39:552][ 79]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.03.13-14.53.39:576][ 79]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TutorialLevel.TutorialLevel up for play (max tick rate 0) at 2023.03.13-14.53.39
+[2023.03.13-14.53.39:577][ 79]LogWorld: Bringing up level for play took: 0.024621
+[2023.03.13-14.53.39:577][ 79]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2023.03.13-14.53.39:582][ 79]PIE: Server logged in
+[2023.03.13-14.53.39:583][ 79]PIE: Play in editor total start time 0.137 seconds.
+[2023.03.13-14.53.46:028][834]LogCharacterMovement: ThirdPersonCharacter_C_0 is stuck and failed to move! Velocity: X=431.94 Y=-112.88 Z=0.00 Location: X=1060.07 Y=412.49 Z=103.73 Normal: X=-0.33 Y=-0.50 Z=-0.80 PenetrationDepth:49.482 Actor:Gangnam_Style_Anim_mixamo_com_11 Component:SkeletalMeshComponent0 BoneName:RightFoot (0 other events since notify)
+[2023.03.13-14.53.47:253][981]LogCharacterMovement: ThirdPersonCharacter_C_0 is stuck and failed to move! Velocity: X=588.95 Y=114.64 Z=0.00 Location: X=1732.02 Y=106.71 Z=105.77 Normal: X=-0.43 Y=-0.90 Z=0.00 PenetrationDepth:6.193 Actor:Gangnam_Style_Anim_mixamo_com_11 Component:SkeletalMeshComponent0 BoneName:LeftLeg (1 other events since notify)
+[2023.03.13-14.54.02:913][736]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.13-14.54.02:913][736]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TutorialLevel
+[2023.03.13-14.54.02:914][736]LogWorld: UWorld::CleanupWorld for TutorialLevel, bSessionEnded=true, bCleanupResources=true
+[2023.03.13-14.54.02:918][736]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.13-14.54.02:926][736]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.13-14.54.02:945][736]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.13-14.54.02:969][736]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.13-14.54.02:969][736]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.13-14.54.02:970][736]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.13-14.54.02:970][736]LogAudioMixer: Display: StopRunningNullDevice() called
+[2023.03.13-14.54.03:013][736]LogUObjectHash: Compacting FUObjectHashTables data took   6.39ms
+[2023.03.13-14.54.03:057][737]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2023.03.13-14.54.09:642][477]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.13-14.54.09:655][477]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.13-14.54.09:655][477]PIE: New page: PIE session: TutorialLevel (13 Mar 2023, 14:54:09)
+[2023.03.13-14.54.09:655][477]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TutorialLevel
+[2023.03.13-14.54.09:712][477]LogPlayLevel: PIE: StaticDuplicateObject took: (0.056235s)
+[2023.03.13-14.54.09:713][477]LogAIModule: Creating AISystem for world TutorialLevel
+[2023.03.13-14.54.09:713][477]LogPlayLevel: PIE: World Init took: (0.001274s)
+[2023.03.13-14.54.09:713][477]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TutorialLevel.TutorialLevel to /Game/Maps/UEDPIE_0_TutorialLevel.TutorialLevel (0.057764s)
+[2023.03.13-14.54.09:737][477]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2023.03.13-14.54.09:739][477]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.03.13-14.54.09:739][477]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.13-14.54.09:739][477]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.13-14.54.09:739][477]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.13-14.54.09:739][477]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.13-14.54.09:739][477]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.13-14.54.09:739][477]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.13-14.54.09:739][477]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.13-14.54.09:739][477]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.13-14.54.09:739][477]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.13-14.54.09:739][477]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.13-14.54.09:739][477]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.13-14.54.09:739][477]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.13-14.54.09:741][477]LogAudioMixer: Display: Using Audio Device Unknown
+[2023.03.13-14.54.09:741][477]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.13-14.54.09:741][477]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.13-14.54.09:741][477]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.13-14.54.09:741][477]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.13-14.54.09:741][477]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.13-14.54.09:741][477]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.13-14.54.09:742][477]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.13-14.54.09:742][477]LogAudioMixer: Display: StartRunningNullDevice() called
+[2023.03.13-14.54.09:743][477]LogInit: FAudioDevice initialized.
+[2023.03.13-14.54.09:743][477]LogAudio: Display: Audio Device (ID: 10) registered with world 'TutorialLevel'.
+[2023.03.13-14.54.09:757][477]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.03.13-14.54.09:783][477]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TutorialLevel.TutorialLevel up for play (max tick rate 0) at 2023.03.13-14.54.09
+[2023.03.13-14.54.09:785][477]LogWorld: Bringing up level for play took: 0.026713
+[2023.03.13-14.54.09:785][477]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2023.03.13-14.54.09:790][477]PIE: Server logged in
+[2023.03.13-14.54.09:790][477]PIE: Play in editor total start time 0.142 seconds.
+[2023.03.13-14.54.11:833][713]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.13-14.54.11:834][713]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TutorialLevel
+[2023.03.13-14.54.11:858][713]LogWorld: UWorld::CleanupWorld for TutorialLevel, bSessionEnded=true, bCleanupResources=true
+[2023.03.13-14.54.11:866][713]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.13-14.54.11:877][713]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.13-14.54.11:898][713]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.13-14.54.11:919][713]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.13-14.54.11:919][713]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.13-14.54.11:920][713]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.13-14.54.11:920][713]LogAudioMixer: Display: StopRunningNullDevice() called
+[2023.03.13-14.54.11:928][713]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2023.03.13-14.54.11:959][714]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2023.03.13-14.54.25:478][281]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.13-14.54.25:489][281]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.13-14.54.25:489][281]PIE: New page: PIE session: TutorialLevel (13 Mar 2023, 14:54:25)
+[2023.03.13-14.54.25:514][281]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TutorialLevel
+[2023.03.13-14.54.25:577][281]LogPlayLevel: PIE: StaticDuplicateObject took: (0.062918s)
+[2023.03.13-14.54.25:578][281]LogAIModule: Creating AISystem for world TutorialLevel
+[2023.03.13-14.54.25:578][281]LogPlayLevel: PIE: World Init took: (0.001096s)
+[2023.03.13-14.54.25:578][281]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TutorialLevel.TutorialLevel to /Game/Maps/UEDPIE_0_TutorialLevel.TutorialLevel (0.064250s)
+[2023.03.13-14.54.25:602][281]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2023.03.13-14.54.25:605][281]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2023.03.13-14.54.25:605][281]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.13-14.54.25:605][281]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.13-14.54.25:605][281]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.13-14.54.25:605][281]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.13-14.54.25:605][281]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.13-14.54.25:605][281]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.13-14.54.25:605][281]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.13-14.54.25:605][281]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.13-14.54.25:606][281]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.13-14.54.25:606][281]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.13-14.54.25:606][281]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.13-14.54.25:606][281]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.13-14.54.25:607][281]LogAudioMixer: Display: Using Audio Device Unknown
+[2023.03.13-14.54.25:607][281]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.13-14.54.25:607][281]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.13-14.54.25:607][281]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.13-14.54.25:608][281]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.13-14.54.25:608][281]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.13-14.54.25:608][281]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.13-14.54.25:609][281]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.13-14.54.25:609][281]LogAudioMixer: Display: StartRunningNullDevice() called
+[2023.03.13-14.54.25:610][281]LogInit: FAudioDevice initialized.
+[2023.03.13-14.54.25:610][281]LogAudio: Display: Audio Device (ID: 11) registered with world 'TutorialLevel'.
+[2023.03.13-14.54.25:619][281]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.03.13-14.54.25:643][281]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TutorialLevel.TutorialLevel up for play (max tick rate 0) at 2023.03.13-14.54.25
+[2023.03.13-14.54.25:645][281]LogWorld: Bringing up level for play took: 0.024767
+[2023.03.13-14.54.25:645][281]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2023.03.13-14.54.25:650][281]PIE: Server logged in
+[2023.03.13-14.54.25:651][281]PIE: Play in editor total start time 0.167 seconds.
+[2023.03.13-14.54.32:498][ 78]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.13-14.54.32:498][ 78]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TutorialLevel
+[2023.03.13-14.54.32:499][ 78]LogWorld: UWorld::CleanupWorld for TutorialLevel, bSessionEnded=true, bCleanupResources=true
+[2023.03.13-14.54.32:506][ 78]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.13-14.54.32:515][ 78]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.13-14.54.32:535][ 78]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.13-14.54.32:556][ 78]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.13-14.54.32:559][ 78]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.13-14.54.32:560][ 78]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.13-14.54.32:560][ 78]LogAudioMixer: Display: StopRunningNullDevice() called
+[2023.03.13-14.54.32:577][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2023.03.13-14.54.32:609][ 79]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2023.03.13-14.55.11:483][665]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2023.03.13-14.55.13:328][873]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2023.03.13-14.55.35:548][449]Cmd: TRANSACTION UNDO
+[2023.03.13-14.55.35:548][449]LogEditorTransaction: Undo Move Actors
+[2023.03.13-14.55.37:973][644]Cmd: TRANSACTION UNDO
+[2023.03.13-14.55.37:973][644]LogEditorTransaction: Undo Move Actors
+[2023.03.13-14.55.53:232][239]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.13-14.55.53:243][239]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.13-14.55.53:243][239]PIE: New page: PIE session: TutorialLevel (13 Mar 2023, 14:55:53)
+[2023.03.13-14.55.53:244][239]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TutorialLevel
+[2023.03.13-14.55.53:300][239]LogPlayLevel: PIE: StaticDuplicateObject took: (0.056688s)
+[2023.03.13-14.55.53:301][239]LogAIModule: Creating AISystem for world TutorialLevel
+[2023.03.13-14.55.53:302][239]LogPlayLevel: PIE: World Init took: (0.001420s)
+[2023.03.13-14.55.53:302][239]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TutorialLevel.TutorialLevel to /Game/Maps/UEDPIE_0_TutorialLevel.TutorialLevel (0.058377s)
+[2023.03.13-14.55.53:327][239]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2023.03.13-14.55.53:331][239]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2023.03.13-14.55.53:331][239]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.13-14.55.53:331][239]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.13-14.55.53:331][239]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.13-14.55.53:331][239]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.13-14.55.53:331][239]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.13-14.55.53:331][239]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.13-14.55.53:331][239]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.13-14.55.53:331][239]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.13-14.55.53:331][239]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.13-14.55.53:331][239]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.13-14.55.53:331][239]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.13-14.55.53:331][239]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.13-14.55.53:333][239]LogAudioMixer: Display: Using Audio Device Unknown
+[2023.03.13-14.55.53:333][239]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.13-14.55.53:333][239]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.13-14.55.53:333][239]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.13-14.55.53:333][239]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.13-14.55.53:333][239]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.13-14.55.53:333][239]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.13-14.55.53:334][239]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.13-14.55.53:334][239]LogAudioMixer: Display: StartRunningNullDevice() called
+[2023.03.13-14.55.53:335][239]LogInit: FAudioDevice initialized.
+[2023.03.13-14.55.53:335][239]LogAudio: Display: Audio Device (ID: 12) registered with world 'TutorialLevel'.
+[2023.03.13-14.55.53:361][239]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.03.13-14.55.53:389][239]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TutorialLevel.TutorialLevel up for play (max tick rate 0) at 2023.03.13-14.55.53
+[2023.03.13-14.55.53:391][239]LogWorld: Bringing up level for play took: 0.027452
+[2023.03.13-14.55.53:391][239]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2023.03.13-14.55.53:395][239]PIE: Server logged in
+[2023.03.13-14.55.53:396][239]PIE: Play in editor total start time 0.159 seconds.
+[2023.03.13-14.55.59:920][989]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.13-14.55.59:920][989]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TutorialLevel
+[2023.03.13-14.55.59:921][989]LogWorld: UWorld::CleanupWorld for TutorialLevel, bSessionEnded=true, bCleanupResources=true
+[2023.03.13-14.55.59:929][989]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.13-14.55.59:939][989]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.13-14.55.59:959][989]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.13-14.55.59:981][989]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.13-14.55.59:981][989]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.13-14.55.59:982][989]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.13-14.55.59:982][989]LogAudioMixer: Display: StopRunningNullDevice() called
+[2023.03.13-14.56.00:010][989]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2023.03.13-14.56.00:045][990]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2023.03.13-14.56.04:275][485]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.13-14.56.04:286][485]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.13-14.56.04:286][485]PIE: New page: PIE session: TutorialLevel (13 Mar 2023, 14:56:04)
+[2023.03.13-14.56.04:309][485]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TutorialLevel
+[2023.03.13-14.56.04:366][485]LogPlayLevel: PIE: StaticDuplicateObject took: (0.057160s)
+[2023.03.13-14.56.04:367][485]LogAIModule: Creating AISystem for world TutorialLevel
+[2023.03.13-14.56.04:368][485]LogPlayLevel: PIE: World Init took: (0.001451s)
+[2023.03.13-14.56.04:368][485]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TutorialLevel.TutorialLevel to /Game/Maps/UEDPIE_0_TutorialLevel.TutorialLevel (0.058878s)
+[2023.03.13-14.56.04:391][485]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2023.03.13-14.56.04:392][485]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2023.03.13-14.56.04:392][485]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.13-14.56.04:392][485]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.13-14.56.04:392][485]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.13-14.56.04:392][485]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.13-14.56.04:392][485]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.13-14.56.04:392][485]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.13-14.56.04:392][485]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.13-14.56.04:392][485]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.13-14.56.04:393][485]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.13-14.56.04:393][485]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.13-14.56.04:393][485]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.13-14.56.04:393][485]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.13-14.56.04:394][485]LogAudioMixer: Display: Using Audio Device Unknown
+[2023.03.13-14.56.04:394][485]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.13-14.56.04:394][485]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.13-14.56.04:395][485]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.13-14.56.04:395][485]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.13-14.56.04:395][485]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.13-14.56.04:395][485]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.13-14.56.04:396][485]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.13-14.56.04:396][485]LogAudioMixer: Display: StartRunningNullDevice() called
+[2023.03.13-14.56.04:397][485]LogInit: FAudioDevice initialized.
+[2023.03.13-14.56.04:397][485]LogAudio: Display: Audio Device (ID: 13) registered with world 'TutorialLevel'.
+[2023.03.13-14.56.04:408][485]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.03.13-14.56.04:432][485]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TutorialLevel.TutorialLevel up for play (max tick rate 0) at 2023.03.13-14.56.04
+[2023.03.13-14.56.04:433][485]LogWorld: Bringing up level for play took: 0.024531
+[2023.03.13-14.56.04:433][485]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2023.03.13-14.56.04:438][485]PIE: Server logged in
+[2023.03.13-14.56.04:439][485]PIE: Play in editor total start time 0.158 seconds.
+[2023.03.13-14.56.28:764][382]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.13-14.56.28:764][382]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TutorialLevel
+[2023.03.13-14.56.28:766][382]LogWorld: UWorld::CleanupWorld for TutorialLevel, bSessionEnded=true, bCleanupResources=true
+[2023.03.13-14.56.28:774][382]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.13-14.56.28:788][382]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.13-14.56.28:812][382]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.13-14.56.28:833][382]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.13-14.56.28:836][382]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.13-14.56.28:837][382]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.13-14.56.28:837][382]LogAudioMixer: Display: StopRunningNullDevice() called
+[2023.03.13-14.56.28:852][382]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2023.03.13-14.56.28:885][383]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2023.03.13-14.56.50:376][808]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.13-14.56.50:387][808]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.13-14.56.50:387][808]PIE: New page: PIE session: TutorialLevel (13 Mar 2023, 14:56:50)
+[2023.03.13-14.56.50:411][808]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TutorialLevel
+[2023.03.13-14.56.50:471][808]LogPlayLevel: PIE: StaticDuplicateObject took: (0.059717s)
+[2023.03.13-14.56.50:472][808]LogAIModule: Creating AISystem for world TutorialLevel
+[2023.03.13-14.56.50:472][808]LogPlayLevel: PIE: World Init took: (0.001576s)
+[2023.03.13-14.56.50:472][808]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TutorialLevel.TutorialLevel to /Game/Maps/UEDPIE_0_TutorialLevel.TutorialLevel (0.061536s)
+[2023.03.13-14.56.50:495][808]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2023.03.13-14.56.50:498][808]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2023.03.13-14.56.50:498][808]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.13-14.56.50:498][808]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.13-14.56.50:498][808]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.13-14.56.50:498][808]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.13-14.56.50:498][808]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.13-14.56.50:498][808]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.13-14.56.50:498][808]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.13-14.56.50:498][808]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.13-14.56.50:498][808]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.13-14.56.50:498][808]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.13-14.56.50:498][808]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.13-14.56.50:498][808]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.13-14.56.50:500][808]LogAudioMixer: Display: Using Audio Device Unknown
+[2023.03.13-14.56.50:500][808]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.13-14.56.50:500][808]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.13-14.56.50:500][808]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.13-14.56.50:500][808]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.13-14.56.50:500][808]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.13-14.56.50:500][808]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.13-14.56.50:501][808]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.13-14.56.50:502][808]LogAudioMixer: Display: StartRunningNullDevice() called
+[2023.03.13-14.56.50:502][808]LogInit: FAudioDevice initialized.
+[2023.03.13-14.56.50:502][808]LogAudio: Display: Audio Device (ID: 14) registered with world 'TutorialLevel'.
+[2023.03.13-14.56.50:512][808]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.03.13-14.56.50:538][808]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TutorialLevel.TutorialLevel up for play (max tick rate 0) at 2023.03.13-14.56.50
+[2023.03.13-14.56.50:540][808]LogWorld: Bringing up level for play took: 0.026384
+[2023.03.13-14.56.50:540][808]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2023.03.13-14.56.50:544][808]PIE: Server logged in
+[2023.03.13-14.56.50:545][808]PIE: Play in editor total start time 0.164 seconds.
+[2023.03.13-14.57.09:021][996]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.13-14.57.09:021][996]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TutorialLevel
+[2023.03.13-14.57.09:022][996]LogWorld: UWorld::CleanupWorld for TutorialLevel, bSessionEnded=true, bCleanupResources=true
+[2023.03.13-14.57.09:029][996]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.13-14.57.09:043][996]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.13-14.57.09:060][996]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.13-14.57.09:081][996]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.13-14.57.09:084][996]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.13-14.57.09:085][996]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.13-14.57.09:085][996]LogAudioMixer: Display: StopRunningNullDevice() called
+[2023.03.13-14.57.09:122][996]LogUObjectHash: Compacting FUObjectHashTables data took   6.09ms
+[2023.03.13-14.57.09:158][997]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2023.03.13-14.57.35:969][136]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2023.03.13-14.57.36:595][136]LogSavePackage: Moving '../../../../../../Users/mg05257163/Documents/GitHub/FMPSWORDS/Saved/TutorialLevel_Auto2C6308C4F4D39BEA74ACA3B9C0F75B69B.tmp' to '../../../../../../Users/mg05257163/Documents/GitHub/FMPSWORDS/Saved/Autosaves/Game/Maps/TutorialLevel_Auto2.umap'
+[2023.03.13-14.57.36:598][136]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/TutorialLevel' took 0.651
+[2023.03.13-14.57.36:598][136]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.651
+[2023.03.13-14.57.36:598][136]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Widgets/images/Gangnam_Style] ([1] browsable assets)...
+[2023.03.13-14.57.36:610][136]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Widgets/images/Gangnam_Style.Gangnam_Style]
+[2023.03.13-14.57.36:610][136]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widgets/images/Gangnam_Style]
+[2023.03.13-14.57.36:666][136]LogSavePackage: Moving '../../../../../../Users/mg05257163/Documents/GitHub/FMPSWORDS/Saved/Gangnam_Style_Auto200CAD3E44EC5DB6E3DA1808F691586B4.tmp' to '../../../../../../Users/mg05257163/Documents/GitHub/FMPSWORDS/Saved/Autosaves/Game/Widgets/images/Gangnam_Style_Auto2.uasset'
+[2023.03.13-14.57.36:666][136]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Widgets/images/Gangnam_Style_Skeleton] ([1] browsable assets)...
+[2023.03.13-14.57.36:666][136]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widgets/images/Gangnam_Style_Skeleton]
+[2023.03.13-14.57.36:670][136]LogSavePackage: Moving '../../../../../../Users/mg05257163/Documents/GitHub/FMPSWORDS/Saved/Gangnam_Style_Skeleton_Auto2EEB40E1846D237CE751059B2025B2C63.tmp' to '../../../../../../Users/mg05257163/Documents/GitHub/FMPSWORDS/Saved/Autosaves/Game/Widgets/images/Gangnam_Style_Skeleton_Auto2.uasset'
+[2023.03.13-14.57.36:670][136]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Widgets/images/Gangnam_Style_PhysicsAsset] ([1] browsable assets)...
+[2023.03.13-14.57.36:679][136]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Widgets/images/Gangnam_Style_PhysicsAsset.Gangnam_Style_PhysicsAsset]
+[2023.03.13-14.57.36:679][136]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widgets/images/Gangnam_Style_PhysicsAsset]
+[2023.03.13-14.57.36:707][136]LogSavePackage: Moving '../../../../../../Users/mg05257163/Documents/GitHub/FMPSWORDS/Saved/Gangnam_Style_PhysicsAsset_Auto20666287D43D676FC0FB9AD8E20BB439A.tmp' to '../../../../../../Users/mg05257163/Documents/GitHub/FMPSWORDS/Saved/Autosaves/Game/Widgets/images/Gangnam_Style_PhysicsAsset_Auto2.uasset'
+[2023.03.13-14.57.36:709][136]LogFileHelpers: Auto-saving content packages took 0.112
+[2023.03.13-14.59.36:486][979]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2023.03.13-15.00.28:578][240]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2023.03.13-15.00.28:663][240]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2023.03.13-15.00.29:911][292]LogSavePackage: Moving '../../../../../../Users/mg05257163/Documents/GitHub/FMPSWORDS/Saved/ThirdPersonCharacterAF452B424BE50D3EA0D097913DB3313A.tmp' to '../../../../../../Users/mg05257163/Documents/GitHub/FMPSWORDS/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2023.03.13-15.00.29:930][292]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2023.03.13-15.00.29:930][292]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2023.03.13-15.00.42:038][651]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.13-15.00.42:052][651]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.13-15.00.42:053][651]PIE: New page: PIE session: TutorialLevel (13 Mar 2023, 15:00:42)
+[2023.03.13-15.00.42:053][651]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TutorialLevel
+[2023.03.13-15.00.42:110][651]LogPlayLevel: PIE: StaticDuplicateObject took: (0.057338s)
+[2023.03.13-15.00.42:111][651]LogAIModule: Creating AISystem for world TutorialLevel
+[2023.03.13-15.00.42:111][651]LogPlayLevel: PIE: World Init took: (0.001166s)
+[2023.03.13-15.00.42:112][651]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TutorialLevel.TutorialLevel to /Game/Maps/UEDPIE_0_TutorialLevel.TutorialLevel (0.058696s)
+[2023.03.13-15.00.42:141][651]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2023.03.13-15.00.42:142][651]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2023.03.13-15.00.42:142][651]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.13-15.00.42:142][651]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.13-15.00.42:142][651]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.13-15.00.42:142][651]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.13-15.00.42:142][651]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.13-15.00.42:142][651]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.13-15.00.42:142][651]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.13-15.00.42:142][651]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.13-15.00.42:142][651]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.13-15.00.42:142][651]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.13-15.00.42:143][651]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.13-15.00.42:143][651]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.13-15.00.42:144][651]LogAudioMixer: Display: Using Audio Device Unknown
+[2023.03.13-15.00.42:144][651]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.13-15.00.42:144][651]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.13-15.00.42:144][651]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.13-15.00.42:144][651]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.13-15.00.42:144][651]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.13-15.00.42:144][651]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.13-15.00.42:146][651]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.13-15.00.42:146][651]LogAudioMixer: Display: StartRunningNullDevice() called
+[2023.03.13-15.00.42:146][651]LogInit: FAudioDevice initialized.
+[2023.03.13-15.00.42:146][651]LogAudio: Display: Audio Device (ID: 15) registered with world 'TutorialLevel'.
+[2023.03.13-15.00.42:156][651]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.03.13-15.00.42:180][651]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TutorialLevel.TutorialLevel up for play (max tick rate 0) at 2023.03.13-15.00.42
+[2023.03.13-15.00.42:181][651]LogWorld: Bringing up level for play took: 0.024792
+[2023.03.13-15.00.42:181][651]LogOnline: OSS: Creating online subsystem instance for: :Context_41
+[2023.03.13-15.00.42:186][651]PIE: Server logged in
+[2023.03.13-15.00.42:187][651]PIE: Play in editor total start time 0.143 seconds.
+[2023.03.13-15.01.23:970][654]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.13-15.01.23:970][654]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TutorialLevel
+[2023.03.13-15.01.23:971][654]LogWorld: UWorld::CleanupWorld for TutorialLevel, bSessionEnded=true, bCleanupResources=true
+[2023.03.13-15.01.23:976][654]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.13-15.01.23:984][654]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.13-15.01.24:001][654]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.13-15.01.24:026][654]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.13-15.01.24:030][654]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.13-15.01.24:031][654]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.13-15.01.24:031][654]LogAudioMixer: Display: StopRunningNullDevice() called
+[2023.03.13-15.01.24:048][654]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.13-15.01.24:066][654]LogUObjectHash: Compacting FUObjectHashTables data took   5.46ms
+[2023.03.13-15.01.24:099][655]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2023.03.13-15.01.38:235][932]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2023.03.13-15.01.38:315][932]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2023.03.13-15.01.39:836][ 29]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.13-15.01.39:849][ 29]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.13-15.01.39:849][ 29]PIE: New page: PIE session: TutorialLevel (13 Mar 2023, 15:01:39)
+[2023.03.13-15.01.39:882][ 29]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TutorialLevel
+[2023.03.13-15.01.39:939][ 29]LogPlayLevel: PIE: StaticDuplicateObject took: (0.057270s)
+[2023.03.13-15.01.39:940][ 29]LogAIModule: Creating AISystem for world TutorialLevel
+[2023.03.13-15.01.39:940][ 29]LogPlayLevel: PIE: World Init took: (0.001135s)
+[2023.03.13-15.01.39:941][ 29]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TutorialLevel.TutorialLevel to /Game/Maps/UEDPIE_0_TutorialLevel.TutorialLevel (0.058662s)
+[2023.03.13-15.01.39:969][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2023.03.13-15.01.39:970][ 29]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2023.03.13-15.01.39:970][ 29]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.13-15.01.39:970][ 29]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.13-15.01.39:970][ 29]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.13-15.01.39:970][ 29]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.13-15.01.39:970][ 29]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.13-15.01.39:970][ 29]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.13-15.01.39:970][ 29]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.13-15.01.39:970][ 29]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.13-15.01.39:971][ 29]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.13-15.01.39:971][ 29]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.13-15.01.39:971][ 29]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.13-15.01.39:971][ 29]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.13-15.01.39:972][ 29]LogAudioMixer: Display: Using Audio Device Unknown
+[2023.03.13-15.01.39:972][ 29]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.13-15.01.39:972][ 29]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.13-15.01.39:972][ 29]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.13-15.01.39:973][ 29]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.13-15.01.39:973][ 29]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.13-15.01.39:973][ 29]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.13-15.01.39:974][ 29]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.13-15.01.39:974][ 29]LogAudioMixer: Display: StartRunningNullDevice() called
+[2023.03.13-15.01.39:974][ 29]LogInit: FAudioDevice initialized.
+[2023.03.13-15.01.39:974][ 29]LogAudio: Display: Audio Device (ID: 16) registered with world 'TutorialLevel'.
+[2023.03.13-15.01.39:983][ 29]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.03.13-15.01.40:007][ 29]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TutorialLevel.TutorialLevel up for play (max tick rate 0) at 2023.03.13-15.01.40
+[2023.03.13-15.01.40:008][ 29]LogWorld: Bringing up level for play took: 0.024307
+[2023.03.13-15.01.40:008][ 29]LogOnline: OSS: Creating online subsystem instance for: :Context_42
+[2023.03.13-15.01.40:013][ 29]PIE: Server logged in
+[2023.03.13-15.01.40:013][ 29]PIE: Play in editor total start time 0.171 seconds.
+[2023.03.13-15.02.02:886][760]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.13-15.02.02:886][760]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TutorialLevel
+[2023.03.13-15.02.02:887][760]LogWorld: UWorld::CleanupWorld for TutorialLevel, bSessionEnded=true, bCleanupResources=true
+[2023.03.13-15.02.02:894][760]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.13-15.02.02:915][760]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.13-15.02.02:942][760]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.13-15.02.02:969][760]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.13-15.02.02:970][760]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.13-15.02.02:971][760]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.13-15.02.02:971][760]LogAudioMixer: Display: StopRunningNullDevice() called
+[2023.03.13-15.02.02:973][760]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.13-15.02.02:981][760]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2023.03.13-15.02.03:008][761]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2023.03.13-15.02.19:499][726]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2023.03.13-15.02.19:879][726]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TutorialLevel" FILE="../../../../../../Users/mg05257163/Documents/GitHub/FMPSWORDS/Content/Maps/TutorialLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.03.13-15.02.19:905][726]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.03.13-15.02.20:534][726]LogSavePackage: Moving '../../../../../../Users/mg05257163/Documents/GitHub/FMPSWORDS/Saved/TutorialLevel8E38E8744E56CFBBF357B58D640480FC.tmp' to '../../../../../../Users/mg05257163/Documents/GitHub/FMPSWORDS/Content/Maps/TutorialLevel.umap'
+[2023.03.13-15.02.20:543][726]LogFileHelpers: Saving map 'TutorialLevel' took 0.665
+[2023.03.13-15.02.20:656][726]LogSavePackage: Moving '../../../../../../Users/mg05257163/Documents/GitHub/FMPSWORDS/Saved/ThirdPersonCharacter76526C7440831CD3DB878F8520A5FE63.tmp' to '../../../../../../Users/mg05257163/Documents/GitHub/FMPSWORDS/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2023.03.13-15.02.20:658][726]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/images/Gangnam_Style" FILE="../../../../../../Users/mg05257163/Documents/GitHub/FMPSWORDS/Content/Widgets/images/Gangnam_Style.uasset" SILENT=true
+[2023.03.13-15.02.20:723][726]LogSavePackage: Moving '../../../../../../Users/mg05257163/Documents/GitHub/FMPSWORDS/Saved/Gangnam_StyleAC7BCE8349AFEFC4DFA7898199C2DAA1.tmp' to '../../../../../../Users/mg05257163/Documents/GitHub/FMPSWORDS/Content/Widgets/images/Gangnam_Style.uasset'
+[2023.03.13-15.02.21:095][726]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/images/lambert1" FILE="../../../../../../Users/mg05257163/Documents/GitHub/FMPSWORDS/Content/Widgets/images/lambert1.uasset" SILENT=true
+[2023.03.13-15.02.21:104][726]LogSavePackage: Moving '../../../../../../Users/mg05257163/Documents/GitHub/FMPSWORDS/Saved/lambert19982C5C141C37A8E67349CB13A54BE5F.tmp' to '../../../../../../Users/mg05257163/Documents/GitHub/FMPSWORDS/Content/Widgets/images/lambert1.uasset'
+[2023.03.13-15.02.21:422][726]LogSavePackage: Moving '../../../../../../Users/mg05257163/Documents/GitHub/FMPSWORDS/Saved/Gangnam_Style_Skeleton2B5948094660154081B9DBA7C529D00F.tmp' to '../../../../../../Users/mg05257163/Documents/GitHub/FMPSWORDS/Content/Widgets/images/Gangnam_Style_Skeleton.uasset'
+[2023.03.13-15.02.21:709][726]LogSavePackage: Moving '../../../../../../Users/mg05257163/Documents/GitHub/FMPSWORDS/Saved/Gangnam_Style_PhysicsAssetC1F8F08447CF52BCCCE52394503535F1.tmp' to '../../../../../../Users/mg05257163/Documents/GitHub/FMPSWORDS/Content/Widgets/images/Gangnam_Style_PhysicsAsset.uasset'
+[2023.03.13-15.02.22:004][726]LogSavePackage: Moving '../../../../../../Users/mg05257163/Documents/GitHub/FMPSWORDS/Saved/Gangnam_Style_Anim_Take_001B7149B50452D73D0F86FCEBEDED75D6F.tmp' to '../../../../../../Users/mg05257163/Documents/GitHub/FMPSWORDS/Content/Widgets/images/Gangnam_Style_Anim_Take_001.uasset'
+[2023.03.13-15.02.22:286][726]LogSavePackage: Moving '../../../../../../Users/mg05257163/Documents/GitHub/FMPSWORDS/Saved/Gangnam_Style_Anim_mixamo_com5A8B5B464332DBF3444C09931105A373.tmp' to '../../../../../../Users/mg05257163/Documents/GitHub/FMPSWORDS/Content/Widgets/images/Gangnam_Style_Anim_mixamo_com.uasset'
+[2023.03.13-15.02.22:564][726]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.13-15.02.22:564][726]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2023.03.13-15.02.22:564][726]LogContentValidation: Display: Validating World /Game/Maps/TutorialLevel.TutorialLevel
+[2023.03.13-15.02.22:564][726]LogContentValidation: Display: Validating AnimSequence /Game/Widgets/images/Gangnam_Style_Anim_mixamo_com.Gangnam_Style_Anim_mixamo_com
+[2023.03.13-15.02.22:564][726]LogContentValidation: Display: Validating AnimSequence /Game/Widgets/images/Gangnam_Style_Anim_Take_001.Gangnam_Style_Anim_Take_001
+[2023.03.13-15.02.22:564][726]LogContentValidation: Display: Validating PhysicsAsset /Game/Widgets/images/Gangnam_Style_PhysicsAsset.Gangnam_Style_PhysicsAsset
+[2023.03.13-15.02.22:564][726]LogContentValidation: Display: Validating Skeleton /Game/Widgets/images/Gangnam_Style_Skeleton.Gangnam_Style_Skeleton
+[2023.03.13-15.02.22:564][726]LogContentValidation: Display: Validating Material /Game/Widgets/images/lambert1.lambert1
+[2023.03.13-15.02.22:564][726]LogContentValidation: Display: Validating SkeletalMesh /Game/Widgets/images/Gangnam_Style.Gangnam_Style
+[2023.03.13-15.02.27:122][ 23]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content' is outside repository at 'C:/Users/mg05257163/Documents/GitHub/FMPSWORDS'
+[2023.03.13-15.02.27:122][ 23]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/mg05257163/Documents/GitHub/FMPSWORDS'
+[2023.03.13-15.02.27:123][ 23]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/mg05257163/Documents/GitHub/FMPSWORDS'
+[2023.03.13-15.02.27:123][ 23]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/mg05257163/Documents/GitHub/FMPSWORDS'
+[2023.03.13-15.02.27:123][ 23]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/mg05257163/Documents/GitHub/FMPSWORDS'
+[2023.03.13-15.02.27:123][ 23]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/mg05257163/Documents/GitHub/FMPSWORDS'
+[2023.03.13-15.02.27:123][ 23]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/mg05257163/Documents/GitHub/FMPSWORDS'
+[2023.03.13-15.02.27:123][ 23]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/mg05257163/Documents/GitHub/FMPSWORDS'
+[2023.03.13-15.02.27:123][ 23]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/mg05257163/Documents/GitHub/FMPSWORDS'
+[2023.03.13-15.02.27:123][ 23]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/mg05257163/Documents/GitHub/FMPSWORDS'
+[2023.03.13-15.02.27:123][ 23]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/mg05257163/Documents/GitHub/FMPSWORDS'
+[2023.03.13-15.02.27:124][ 23]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'C:/Users/mg05257163/Documents/GitHub/FMPSWORDS'
+[2023.03.13-15.02.27:124][ 23]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'C:/Users/mg05257163/Documents/GitHub/FMPSWORDS'
+[2023.03.13-15.02.27:124][ 23]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'C:/Users/mg05257163/Documents/GitHub/FMPSWORDS'
+[2023.03.13-15.02.27:124][ 23]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'C:/Users/mg05257163/Documents/GitHub/FMPSWORDS'
+[2023.03.13-15.02.27:124][ 23]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'C:/Users/mg05257163/Documents/GitHub/FMPSWORDS'
+[2023.03.13-15.02.27:124][ 23]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/mg05257163/Documents/GitHub/FMPSWORDS'
+[2023.03.13-15.02.27:124][ 23]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/mg05257163/Documents/GitHub/FMPSWORDS'
+[2023.03.13-15.02.27:124][ 23]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content' is outside repository at 'C:/Users/mg05257163/Documents/GitHub/FMPSWORDS'
+[2023.03.13-15.02.27:124][ 23]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository at 'C:/Users/mg05257163/Documents/GitHub/FMPSWORDS'
+[2023.03.13-15.02.27:124][ 23]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository at 'C:/Users/mg05257163/Documents/GitHub/FMPSWORDS'
+[2023.03.13-15.02.27:124][ 23]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Users/mg05257163/Documents/GitHub/FMPSWORDS'
+[2023.03.13-15.02.27:124][ 23]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/mg05257163/Documents/GitHub/FMPSWORDS'
+[2023.03.13-15.02.27:124][ 23]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'C:/Users/mg05257163/Documents/GitHub/FMPSWORDS'
+[2023.03.13-15.02.27:125][ 23]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'C:/Users/mg05257163/Documents/GitHub/FMPSWORDS'
+[2023.03.13-15.02.27:125][ 23]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Users/mg05257163/Documents/GitHub/FMPSWORDS'
+[2023.03.13-15.02.27:625][ 23]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TutorialLevel" FILE="../../../../../../Users/mg05257163/Documents/GitHub/FMPSWORDS/Content/Maps/TutorialLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.03.13-15.02.27:653][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2023.03.13-15.02.28:298][ 23]LogSavePackage: Moving '../../../../../../Users/mg05257163/Documents/GitHub/FMPSWORDS/Saved/TutorialLevelFBEA50D147C004A63ACF60A276820050.tmp' to '../../../../../../Users/mg05257163/Documents/GitHub/FMPSWORDS/Content/Maps/TutorialLevel.umap'
+[2023.03.13-15.02.28:309][ 23]LogFileHelpers: Saving map 'TutorialLevel' took 0.685
+[2023.03.13-15.02.28:412][ 23]LogSavePackage: Moving '../../../../../../Users/mg05257163/Documents/GitHub/FMPSWORDS/Saved/ThirdPersonCharacter08EA616C4FFDD013A74BDCB35846674E.tmp' to '../../../../../../Users/mg05257163/Documents/GitHub/FMPSWORDS/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2023.03.13-15.02.28:414][ 23]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/images/Gangnam_Style" FILE="../../../../../../Users/mg05257163/Documents/GitHub/FMPSWORDS/Content/Widgets/images/Gangnam_Style.uasset" SILENT=true
+[2023.03.13-15.02.28:472][ 23]LogSavePackage: Moving '../../../../../../Users/mg05257163/Documents/GitHub/FMPSWORDS/Saved/Gangnam_Style9AA594314C4E0F58D7A99DB336AB7637.tmp' to '../../../../../../Users/mg05257163/Documents/GitHub/FMPSWORDS/Content/Widgets/images/Gangnam_Style.uasset'
+[2023.03.13-15.02.28:480][ 23]LogSavePackage: Moving '../../../../../../Users/mg05257163/Documents/GitHub/FMPSWORDS/Saved/Gangnam_Style_Anim_mixamo_com1F03BBF645B1235BB9EFE58C909653DC.tmp' to '../../../../../../Users/mg05257163/Documents/GitHub/FMPSWORDS/Content/Widgets/images/Gangnam_Style_Anim_mixamo_com.uasset'
+[2023.03.13-15.02.28:485][ 23]LogSavePackage: Moving '../../../../../../Users/mg05257163/Documents/GitHub/FMPSWORDS/Saved/Gangnam_Style_Anim_Take_001BE53AECD45872B2B99F4EDA8FEAA6F33.tmp' to '../../../../../../Users/mg05257163/Documents/GitHub/FMPSWORDS/Content/Widgets/images/Gangnam_Style_Anim_Take_001.uasset'
+[2023.03.13-15.02.28:511][ 23]LogSavePackage: Moving '../../../../../../Users/mg05257163/Documents/GitHub/FMPSWORDS/Saved/Gangnam_Style_PhysicsAssetDB96CE7140AEBE9A1E146D9A82283DA1.tmp' to '../../../../../../Users/mg05257163/Documents/GitHub/FMPSWORDS/Content/Widgets/images/Gangnam_Style_PhysicsAsset.uasset'
+[2023.03.13-15.02.28:516][ 23]LogSavePackage: Moving '../../../../../../Users/mg05257163/Documents/GitHub/FMPSWORDS/Saved/Gangnam_Style_Skeleton055785F14EBAD014F42D9FB3A7433560.tmp' to '../../../../../../Users/mg05257163/Documents/GitHub/FMPSWORDS/Content/Widgets/images/Gangnam_Style_Skeleton.uasset'
+[2023.03.13-15.02.28:517][ 23]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/images/lambert1" FILE="../../../../../../Users/mg05257163/Documents/GitHub/FMPSWORDS/Content/Widgets/images/lambert1.uasset" SILENT=true
+[2023.03.13-15.02.28:519][ 23]LogSavePackage: Moving '../../../../../../Users/mg05257163/Documents/GitHub/FMPSWORDS/Saved/lambert1AB15ED0444B0D47C5048569376A65862.tmp' to '../../../../../../Users/mg05257163/Documents/GitHub/FMPSWORDS/Content/Widgets/images/lambert1.uasset'
+[2023.03.13-15.02.34:620][ 23]LogSlate: Window 'Submit Files' being destroyed
+[2023.03.13-15.02.35:593][ 23]LogSourceControl: commit successful: [master cfd23f2] helllllo
+[2023.03.13-15.02.35:846][ 23]SourceControl: [master cfd23f2] helllllo
+[2023.03.13-15.02.35:846][ 23]SourceControl:  8 files changed, 0 insertions(+), 0 deletions(-)
+[2023.03.13-15.02.35:846][ 23]SourceControl:  rewrite Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset (73%)
+[2023.03.13-15.02.35:846][ 23]SourceControl:  create mode 100644 Content/Widgets/images/Gangnam_Style.uasset
+[2023.03.13-15.02.35:846][ 23]SourceControl:  create mode 100644 Content/Widgets/images/Gangnam_Style_Anim_Take_001.uasset
+[2023.03.13-15.02.35:846][ 23]SourceControl:  create mode 100644 Content/Widgets/images/Gangnam_Style_Anim_mixamo_com.uasset
+[2023.03.13-15.02.35:846][ 23]SourceControl:  create mode 100644 Content/Widgets/images/Gangnam_Style_PhysicsAsset.uasset
+[2023.03.13-15.02.35:846][ 23]SourceControl:  create mode 100644 Content/Widgets/images/Gangnam_Style_Skeleton.uasset
+[2023.03.13-15.02.35:846][ 23]SourceControl:  create mode 100644 Content/Widgets/images/lambert1.uasset
+[2023.03.13-15.02.35:849][ 23]SourceControl: Commited [master cfd23f2] helllllo.
+[2023.03.13-15.02.35:882][ 24]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.13-15.02.35:882][ 24]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2023.03.13-15.02.35:882][ 24]LogContentValidation: Display: Validating World /Game/Maps/TutorialLevel.TutorialLevel
+[2023.03.13-15.02.35:882][ 24]LogContentValidation: Display: Validating AnimSequence /Game/Widgets/images/Gangnam_Style_Anim_mixamo_com.Gangnam_Style_Anim_mixamo_com
+[2023.03.13-15.02.35:882][ 24]LogContentValidation: Display: Validating AnimSequence /Game/Widgets/images/Gangnam_Style_Anim_Take_001.Gangnam_Style_Anim_Take_001
+[2023.03.13-15.02.35:882][ 24]LogContentValidation: Display: Validating PhysicsAsset /Game/Widgets/images/Gangnam_Style_PhysicsAsset.Gangnam_Style_PhysicsAsset
+[2023.03.13-15.02.35:882][ 24]LogContentValidation: Display: Validating Skeleton /Game/Widgets/images/Gangnam_Style_Skeleton.Gangnam_Style_Skeleton
+[2023.03.13-15.02.35:882][ 24]LogContentValidation: Display: Validating Material /Game/Widgets/images/lambert1.lambert1
+[2023.03.13-15.02.35:882][ 24]LogContentValidation: Display: Validating SkeletalMesh /Game/Widgets/images/Gangnam_Style.Gangnam_Style
